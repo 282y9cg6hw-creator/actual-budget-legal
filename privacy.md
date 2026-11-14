@@ -1,15 +1,37 @@
-# Privacy Policy – Actual Budget (Personal Use)
+# Privacy Policy – Actual Budget
 
-This is a privately operated, self-hosted Actual Budget instance intended exclusively for personal financial management.
+**Last updated: November 14, 2026**
 
-The application is not offered as a public service to third parties.
+## 1. Purpose
 
-Financial information retrieved through Enable Banking is used solely to display and manage the account owner's personal finances.
+This Actual Budget instance is self-hosted and operated exclusively for personal, non-commercial financial management.
 
-Financial data is stored on a privately managed server. Enable Banking processes banking information according to its own privacy policy and applicable regulations.
+It is not offered as a financial service to the public.
 
-No financial information is sold or intentionally shared with advertisers or unrelated third parties.
+## 2. Financial Data
 
-Access to the application is restricted to authorized users.
+The application is intended to manage personal bank balances, transactions, expenses, budgets, and financial records.
 
-For privacy-related inquiries, contact the operator through the contact information provided during the Enable Banking application registration.
+## 3. Bank Connectivity
+
+Enable Banking may be used to retrieve account information and transaction history from bank accounts explicitly authorized by the account holder.
+
+Bank access is subject to the permissions granted by the account holder and the applicable policies of Enable Banking and the connected bank.
+
+## 4. Data Storage and Security
+
+Actual Budget is hosted on a privately managed ZimaOS server. Remote access is restricted using Tailscale.
+
+Reasonable security measures are used to protect access to financial information.
+
+## 5. Third-Party Services
+
+Enable Banking and the connected financial institution may process information necessary to provide bank connectivity, subject to their respective privacy policies.
+
+## 6. Personal Use
+
+The application is not intended for collecting or managing financial information belonging to unrelated third parties.
+
+## 7. Contact
+
+Privacy-related inquiries can be directed to the application operator through the contact details supplied during application registration.
